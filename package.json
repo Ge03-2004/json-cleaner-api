@@ -1,0 +1,7 @@
+{
+  "name": "json-sanitizer-api",
+  "version": "1.0.0",
+  "main": "api/clean.js",
+  "type": "module",
+  "license": "MIT"
+}
